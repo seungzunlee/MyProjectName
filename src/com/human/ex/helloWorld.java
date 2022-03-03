@@ -68,7 +68,7 @@ public class helloWorld {
 		System.out.println("15\t16\t17\t18\t19\t20\t21");
 		System.out.println("22\t23\t24\t25\t26\t27\t28");
 		System.out.println("29\t30\t31\t\t\t\t");
-		
+		System.out.println("");
 
 	}
 
